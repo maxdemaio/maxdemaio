@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <samp>
-    <a href="https://www.maxdemaio.com/">My website</a> .
+    <a href="https://www.maxdemaio.com/">Website</a> .
     <a href="https://twitter.com/maxwelldemaio">Twitter</a> .
     <a href="https://www.youtube.com/channel/UCXzTmvY30ODYPrpVImJEVBQ">YouTube</a>
   </samp>
